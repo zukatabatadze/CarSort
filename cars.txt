@@ -1,0 +1,9 @@
+Alfa Romeo, Giulia, Autimatic, Petrol, Left
+BMW, M5, Manual, Petrol, Left
+Honda, FIT, Automatic, Petrol, Right
+Toyota, Camry, Automatic, Hybrid, Left
+Kia, Rio, Automatic, Petrol, Left
+Toyota, Prius, Automatic, Hybrid, Right
+Mercedes, C63, Manual, Gas/Petrol, Left
+Chevrolet, Cruze, Manual, Petrol, Right
+Volkswagen, Golf, Manual, Gas/Petrol, Left
